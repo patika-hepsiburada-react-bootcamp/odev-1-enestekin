@@ -1,5 +1,7 @@
 import axios from 'axios';
 
+// Fetching posts and user data from api according to the entered parameter
+
 const getData = async (userId) => {
   try {
     const { data: user } = await axios.get(
