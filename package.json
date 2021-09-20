@@ -1,0 +1,24 @@
+{
+  "name": "odevim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patika-hepsiburada-react-bootcamp/odev-1-enestekin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-enestekin/issues"
+  },
+  "homepage": "https://github.com/patika-hepsiburada-react-bootcamp/odev-1-enestekin#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
